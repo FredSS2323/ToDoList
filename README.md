@@ -87,6 +87,5 @@ ToDoList/
   -Caso não informe um caminho, o arquivo será salvo como Relatório.txt na raiz do projeto.
 
   ✍️ Autor
-Desenvolvido por [Frederico]
-📧 contato@email.com
-[💼 LinkedIn]()
+Desenvolvido por Frederico
+[💼 LinkedIn](www.linkedin.com/in/frederico-schiavon)
