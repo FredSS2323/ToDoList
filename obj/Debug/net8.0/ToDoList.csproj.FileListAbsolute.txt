@@ -1,0 +1,14 @@
+/home/fredericp/Projetos/ToDoList/bin/Debug/net8.0/ToDoList
+/home/fredericp/Projetos/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/home/fredericp/Projetos/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/home/fredericp/Projetos/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/home/fredericp/Projetos/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/home/fredericp/Projetos/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
