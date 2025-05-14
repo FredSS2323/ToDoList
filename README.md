@@ -88,4 +88,4 @@ ToDoList/
 
   ✍️ Autor
 Desenvolvido por Frederico
-[💼 LinkedIn](www.linkedin.com/in/frederico-schiavon)
+💼 LinkedIn - ([Perfil]www.linkedin.com/in/frederico-schiavon)
