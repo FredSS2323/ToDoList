@@ -79,3 +79,14 @@ ToDoList/
 8 - Sair
 ```
 
+##📌 Observações
+  -Ao tentar adicionar uma tarefa vazia, será criada como "SEM DESCRIÇÃO".
+  
+  -A exportação gera um .txt com todas as tarefas e seus respectivos status.
+  
+  -Caso não informe um caminho, o arquivo será salvo como Relatório.txt na raiz do projeto.
+
+  ✍️ Autor
+Desenvolvido por [Frederico]
+📧 contato@email.com
+[💼 LinkedIn]()
