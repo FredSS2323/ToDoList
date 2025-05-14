@@ -47,7 +47,7 @@ Este projeto foi desenvolvido e testado em:
 
 ### 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/ToDoList.git
+git clone https://github.com/FredSS2323/ToDoList.git
 cd ToDoList
 
 ### 2. Compile e execute o projeto
