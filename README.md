@@ -58,16 +58,17 @@ dotnet run
 ```
 
 📂 Estrutura do Projeto
-
+```bash
 ToDoList/
 ├── Program.cs         # Código principal (menu e funcionalidades)
 ├── Tarefa.cs          # Classe que representa uma tarefa
 ├── Relatório.txt      # Arquivo gerado com as tarefas (se solicitado)
 ├── README.md          # Este arquivo
 └── .gitignore         # Arquivos e pastas ignoradas pelo Git
+```
 
 📄 Exemplo de uso
-
+```bash
 1 - Nova Tarefa
 2 - Listar Tarefas
 3 - Remover uma Tarefa
@@ -76,5 +77,5 @@ ToDoList/
 6 - Apagar Todos
 7 - Gerar Arquivo de Tarefas
 8 - Sair
-
+```
 
