@@ -46,14 +46,16 @@ Este projeto foi desenvolvido e testado em:
 > - Git instalado
 
 ### 1. Clone o repositório
-
+```bash
 git clone https://github.com/FredSS2323/ToDoList.git
 cd ToDoList
+```
 
 ### 2. Compile e execute o projeto
-
+```bash
 dotnet build
 dotnet run
+```
 
 📂 Estrutura do Projeto
 
